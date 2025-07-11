@@ -95,4 +95,3 @@ git commit -m "Added README with project overview"
 git push
 ````
 
-⚡ You're now GitHub- and resume-ready. Want help deploying it next?
