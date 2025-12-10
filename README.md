@@ -6,8 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A production-ready **Machine Learning web application** that predicts customer churn probability using Random Forest classification. Built with Streamlit for an interactive user experience, featuring real-time predictions, batch processing, and comprehensive model insights.
-
-![Demo](https://customer-churn-prediction-by-na.streamlit.app/)
+🔗 **[Live Demo - Try it here!](https://customer-churn-prediction-by-na.streamlit.app/)**
 
 ---
 
